@@ -1,0 +1,3 @@
+https://github.com/raul-izquierdo/classroom-50-tools.git
+https://github.com/raul-izquierdo/mlang_code.git
+https://github.com/raul-izquierdo/MAPL.git
